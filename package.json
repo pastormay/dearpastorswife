@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/pastormay/dearpastorswife/issues"
   },
-  "homepage": "https://github.com/pastormay/dearpastorswife#readme"
+  "homepage": "https://github.com/pastormay/dearpastorswife",
+  "dependencies": {
+    "gh-pages": "^3.0.0"
+  }
 }

@@ -1,14 +1,14 @@
 # Site settings
-title: Emerald | A simple Jekyll blog
-description: "A minimal blog template, build with Jekyll."
-url: "http://www.jacoporabolini.com/emerald"
+title: Dear Pastor's Wife | A haven for pastors' wives
+description: "A blog for pastors' wives; a place to connect and receive encouragement."
+url: "http://pastormay.github.io/dearpastorswife"
 author:
-  name: "Jacopo Rabolini"
-  email: "hello@jacoporabolini.com"
-  url: "http://www.jacoporabolini.com"
+  name: "Pastor May Ijisesan"
+  email: "dearpastorswife@gmail.com"
+  url: "http://www.pastormay.org"
 
 # Build settings
-baseurl: /dearpastorswife # Change this to your relative path (ex: /blog/), or leave just a /
+baseurl: /dearpastorswife/ # Change this to your relative path (ex: /blog/), or leave just a /
 markdown: kramdown
 source: .
 destination: ./_site

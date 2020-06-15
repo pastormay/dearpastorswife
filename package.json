@@ -1,0 +1,20 @@
+{
+  "name": "dearpastorswife",
+  "version": "1.0.0",
+  "description": "Emerald is a minimal theme created for Jekyll. The main purpose of Emerald is to provide a clear theme for those who want a blog ready to use, focused on the content and mobile-first.",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pastormay/dearpastorswife.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pastormay/dearpastorswife/issues"
+  },
+  "homepage": "https://github.com/pastormay/dearpastorswife#readme"
+}

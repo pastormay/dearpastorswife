@@ -1,21 +1,19 @@
 ---
 layout: page
-title: About Emerald
+title: About Dear Pastor's Wife
 ---
 ## About
-Emerald is a minimal theme created for Jekyll. The main purpose of Emerald is to provide a clear theme for those who want a blog ready to use, focused on the content and mobile-first.
+Hebrews 10: 25 ...not giving up meeting together, as some are in the habit of doing, but encouraging one another—and all the more as you see the Day approaching.
 
-For further details on Emerald, please visit the [repository on Github](https://github.com/KingFelix/emerald/).
+We may not be able to meet together physically but we can meet together here. 
 
-![Emerald](img/Emerald01.png "Emerald")
+![Emerald](img/about.png "DPW")
 
-### Setup
-Emerald may be installed by simply downloading the .zip folder from the [repository on Github](https://github.com/KingFelix/emerald/archive/master.zip).
+### Vision
+Dear Pastor's Wife is a vision that was born in Pastor May Ijisesan's heart to offer encouragement to pastors' wives. As the pastor's wife ministers to others, who ministers to her? Who encourages her? Who does she turn to for help, for counsel, for advise? As she gives and gives and gives, who waters her back in return? The vision of Dear Pastor's Wife is to be that watering hole that a pastor's wife can turn to. 
 
-After extracting the content from the folder into the selected directory, you can type ``jekyll serve`` from the terminal, than open your browser to ``0.0.0.0:4000/emerald/`` and you will find it there.
+If you are a pastor's wife, you can come here for help. You can come for community. You can come here to hangout. You can receive but you can also give to encourage someone else. You never know who your words can encourage just as I never know who my words can encourage. Let us join together to form a community where we can lift one another up.
 
-Additionally it is possible to fork the repository and use Github Pages as hosting. By following this way it will be enough to change the ``baseurl`` value into the ``_config.yml`` file, with the directory name of your project (for example /blog) or simply with a "/" (slash) if you want install Emerald in the root. 
-
-Last but not least: the [Jekyll documentation](http://jekyllrb.com) is the best starting point!
+So, sit back. Relax. Come back for fresh content regularly. Thank you for visiting this page.
 
 Enjoy!

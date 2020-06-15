@@ -1,14 +1,12 @@
 ---
-id: 611
 title: BE COURAGEOUS!
 date: 2020-05-04T05:01:00+00:00
-author: PastorMay
 layout: post
-guid: http://dearpastorswife.org/?p=611
-permalink: /be-courageous/
-categories:
-  - Uncategorized
+categories: Uncategorized
 ---
+
+![Courage]({{site.baseurl}}/img/blog_img/courage-scaled.jpg)
+
 Dear Pastor&#8217;s Wife,
 
 As a woman of God, you will always need to be courageous to do all that God has called you to do. But don&#8217;t worry; courage is just embracing what God says you are. He takes over from there. You see God will speak to the real you. He will call for the person He knows that He has made you be. When your outward self reflects who your inward self is, then you will do things that you once thought were impossible. That is why what God says about you is so important. What God says about you calls out the real person. Maybe you are covered up in shame, insecurity or poor self-esteem. That is not really who you are. That may be what you have become on the outside because of what people have said about you, the mistakes you have made or perhaps what your life experiences have been. That&#8217;s why God will address you as a mighty woman of valor even when you don&#8217;t feel like it. He will call you a world-changer when you don&#8217;t feel like you can change anything. Courage is embracing that word and when you do, God changes you into the kind of person who changes her world.

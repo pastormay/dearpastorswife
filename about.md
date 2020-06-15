@@ -17,3 +17,5 @@ If you are a pastor's wife, you can come here for help. You can come for communi
 So, sit back. Relax. Come back for fresh content regularly. Thank you for visiting this page.
 
 Enjoy!
+
+Based on the [Emerald Jekyll Theme](https://github.com/KingFelix/emerald)

@@ -1,15 +1,11 @@
 ---
-id: 598
 title: 'DON&#8217;T BREAK THE BANK'
 date: 2020-03-01T03:04:00+00:00
-author: PastorMay
 layout: post
-guid: http://dearpastorswife.org/?p=598
-permalink: /dont-break-the-bank/
-image: /wp-content/uploads/2020/03/brandless-Ag3JVi32cW4-unsplash-1.jpg
-categories:
-  - Family
+categories: Family
 ---
+![Dont-Break-Bank]({{site.baseurl}}/img/blog_img/Dont-break-bank.jpg)
+
 Dear Pastor’s wife,
 
 We are exposed to people from varied financial and economic backgrounds. Some people will come to church who are more financially comfortable than we are. Others will come to church who have less. I have seen people who are usually quite content and not given to competitive jealousy, get under pressure when their children are involved. People want to give their kids the best and sometimes stress themselves out when they cannot afford to give their kids things that others can. As pastors, we all want to give our children the best but we have to watch it in this area.

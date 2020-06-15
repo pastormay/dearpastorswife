@@ -1,15 +1,12 @@
 ---
-id: 31
 title: BUILDING KINDLING AROUND YOUR CHILDREN’S HEARTS
 date: 2020-01-06T04:49:00+00:00
-author: PastorMay
 layout: post
-guid: http://dearpastorswife.org/?p=31
-permalink: /kindling-around-your-childrens-hearts/
-image: /wp-content/uploads/2019/12/mother-child.jpg
-categories:
-  - Family
+categories: Family
 ---
+
+![Kindling]({{site.baseurl}}/img/blog_img/kindling.jpg)
+
 Dear Pastor’s Wife,
 
  Kindling is defined as easily combustible, small sticks or wigs used for starting a fire. You cannot decide for your children to follow Christ or be devoted to HIM but you can surround their hearts with kindling so that God can spark a flame more easily later on in their lives.

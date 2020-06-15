@@ -1,15 +1,11 @@
 ---
-id: 619
 title: OCCUPY YOUR PLACE
 date: 2020-05-06T09:07:00+00:00
-author: PastorMay
 layout: post
-guid: http://dearpastorswife.org/?p=619
-permalink: /occupy-your-place/
-image: /wp-content/uploads/2020/05/shutterstock_346675895.jpg
-categories:
-  - Ministry
+categories: Ministry
 ---
+![Occupy]({{site.baseurl}}/img/blog_img/occupy.jpg)
+
 Dear Pastor’s Wife
 
 Several years ago, the Lord laid this word on my heart as the theme for our Women’s Conference that year. At that time, I didn’t know what it meant. Most times I don’t know what the themes for our women’s conferences mean until God starts expounding on them. He often shows me by revelation and life experiences until I understand what He is saying to the women. He was telling me that year&nbsp;that women ought to occupy their places in the home, in ministry, in business, in career, in politics, in society or wherever they may be called to.

@@ -1,15 +1,12 @@
 ---
-id: 606
 title: 'MIRROR, MIRROR ON THE WALL- YOU MAY NOT BE THE FAIREST OF THEM ALL'
 date: 2020-04-06T04:37:00+00:00
-author: PastorMay
 layout: post
-guid: http://dearpastorswife.org/?p=606
-permalink: /mirror-mirror-on-the-wall-you-may-not-be-the-fairest-of-them-all/
-image: /wp-content/uploads/2020/01/mirror-2-scaled.jpg
-categories:
-  - Self
+categories: Self
 ---
+
+![Mirror-Mirror]({{site.baseurl}}/img/blog_img/mirror-mirror.jpg)
+
 Dear Pastor&#8217;s Wife,
 
 Do you remember the fairytale _Snow White_? Snow white is about a beautiful young lady and her stepmother. The stepmother was an evil queen who had a magical mirror in her room. Every morning she would stand in front of this mirror and ask, ‘Mirror, mirror on the wall, who is the fairest of them all?’ For many years, the response was, &#8216;You Are.&#8217; Every time she asked, the mirror would reaffirm what she wanted to hear. ‘You Are’, It would say. Well, one day she stood in the same position, in front of that mirror and for the first time, the mirror responded, ‘You are not.’ She was enraged. Who could it be then? If she wasn’t the fairest, the most wonderful, the most celebrated and most admired, who then was? Well, she asked the mirror and it showed her the image of a girl she knew too well. The mirror showed her the image of her stepdaughter. The queen got so angry. She got so jealous that she began an evil plot to get rid of snow-white. Well, maybe I’ll finish this story another time.

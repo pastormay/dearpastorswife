@@ -1,15 +1,12 @@
 ---
-id: 34
 title: RAISING NORMAL KIDS
 date: 2020-02-03T04:55:00+00:00
-author: PastorMay
 layout: post
-guid: http://dearpastorswife.org/?p=34
-permalink: /raise-normal-kids/
-image: /wp-content/uploads/2019/12/0EE8D50C-9593-4FE3-9CC8-C88A496C9ACC-scaled-e1577541433839.jpeg
-categories:
-  - Family
+categories: Family
 ---
+
+![Normal-kids]({{site.baseurl}}/img/blog_img/normal-kids.jpg)
+
 Dear Pastor’s wife,
 
 <!--StartFragment-->
